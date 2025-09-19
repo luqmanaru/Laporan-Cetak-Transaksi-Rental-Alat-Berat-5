@@ -1,4 +1,4 @@
-<img width="827" height="440" alt="image" src="https://github.com/user-attachments/assets/9080c1e0-73c4-4147-b504-d6bca96608d8" /># Laporan-Cetak-Transaksi-Rental-Alat-Berat-5
+# Laporan-Cetak-Transaksi-Rental-Alat-Berat-5
 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-3.x-orange.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)
